@@ -1,1 +1,1 @@
-use NPM start to start the build :)
+Use npm start to start the build :)
